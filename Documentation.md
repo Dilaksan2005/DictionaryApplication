@@ -8,7 +8,7 @@ Date: 30/10/2026
 1. HOW TO RUN (VS Code)
 
 Step 1. Open the project folder.
-In VS Code choose File > Open Folder and select the CSP2104_Assignment2 folder.
+In VS Code choose File > Open Folder and select the Dictionary folder.
 It should contain main.cpp, Dictionary.cpp and dictionary_2026S2.txt.
 
 Step 2. Open the terminal inside VS Code.
