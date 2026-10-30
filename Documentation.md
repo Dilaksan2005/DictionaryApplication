@@ -1,4 +1,4 @@
-CSP2104 Assignment 2 - The Dictionary
+The Dictionary
 Documentation
 
 Author: Dilaksan Gnanasegaran
