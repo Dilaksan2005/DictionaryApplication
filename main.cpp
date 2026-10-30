@@ -1,6 +1,6 @@
 /*
  * File:     main.cpp
- * Purpose:  Entry point for CSP2104 Assignment 2 - The Dictionary.
+ * Purpose:  Entry point for The Dictionary.
  *           Seeds the random number generator, then hands control to an
  *           AdvancedDictionary, which runs the menu until the user exits.
  * Author:   Dilaksan Gnanasegaran
@@ -38,7 +38,7 @@ int main()
     // (Seeding repeatedly would give repeats, so it's done here and only here.)
     std::srand(static_cast<unsigned int>(std::time(nullptr)));
 
-    std::cout << "Welcome to the CSP2104 Dictionary!\n";
+    std::cout << "Welcome to Dilaksan's Dictionary!\n";
 
     AdvancedDictionary dictionary;
     dictionary.run();
